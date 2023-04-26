@@ -1,4 +1,5 @@
 import UIKit
+
 //arrays:
 //var ages = [11,22,33,44,55]
 //
@@ -54,5 +55,27 @@ import UIKit
 //}
 //print(randomIntegers)
 
-//Enum or Enumeration
+//Enum or Enumeration are basically group of values that are related //switch
+//enum moodSwing{
+//    case sad
+//    case happy
+//    case angry
+//}
+//func getRagavsmood(when mood:moodSwing){
+//
+//    switch mood
+//    {
+//    case .angry:
+//        print("okay bye")
+//    case .sad:
+//        print("iam tired yoo, i need rest")
+//    case .happy:
+//        print("yawn")
+//    }
+//
+//}
+//getRagavsmood(when: .sad)
+
+//basic code with operators +,-,*,/,% and some logical operators
+
 
